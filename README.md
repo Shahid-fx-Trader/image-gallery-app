@@ -82,10 +82,6 @@ image-gallery-app/
 ├── public/
 │   └── index.html
 ├── src/
-│   ├── components/
-│   │   ├── ImageCard.jsx       # Individual image card component
-│   │   ├── ImageGrid.jsx       # Grid layout wrapper
-│   │   └── Pagination.jsx      # Next / Previous navigation
 │   ├── App.jsx                 # Root component with state & API logic
 │   ├── index.js                # React entry point
 │   └── index.css               # Tailwind CSS imports
